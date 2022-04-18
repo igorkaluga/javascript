@@ -11,7 +11,7 @@ When you have lasagna in the oven, you want to know whether you can already take
 To make sure the lasagna does not burn in the oven, you usually set a timer.
 But sometimes you forget about that.
 
-Write a function `cookingStatus` with that accepts the remaining time on the timer in minutes as a parameter.
+Write a function `cookingStatus` that accepts the remaining time on the timer in minutes as a parameter.
 The function has three possible results.
 
 - If the timer shows `0`, it should return `'Lasagna is done.'`.
